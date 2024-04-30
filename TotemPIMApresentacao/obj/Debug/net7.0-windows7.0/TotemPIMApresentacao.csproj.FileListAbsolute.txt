@@ -1,0 +1,171 @@
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.exe
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.deps.json
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.runtimeconfig.json
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.Apollo_11.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioForm.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoForm.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraDocumentos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioDocumentos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormDocumentos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraEquip.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioEquip.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormEquip.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraFotos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioFotos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormFotos.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.Menu.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraSuits.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioSuits.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormSuit.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.GenerateResource.cache
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfoInputs.cache
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfo.cs
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\refint\TotemPIMApresentacao.dll
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.genruntimeconfig.cache
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\ref\TotemPIMApresentacao.dll
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.Properties.Resources.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraHistoria.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioHistoria.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormHistoria.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraReplica.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioReplica.resources
+C:\Users\kenzo\OneDrive\Documentos\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormReplica.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.Properties.Resources.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.Apollo_11.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioForm.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoForm.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraDocumentos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioDocumentos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormDocumentos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraEquip.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioEquip.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormEquip.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraFotos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioFotos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormFotos.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraHistoria.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioHistoria.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormHistoria.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III.View.LoginVisitante.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.Menu.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraReplica.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioReplica.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormReplica.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraSuits.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioSuits.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormSuit.resources
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.GenerateResource.cache
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfoInputs.cache
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfo.cs
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.CoreCompileInputs.cache
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\refint\TotemPIMApresentacao.dll
+E:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.Properties.Resources.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.Apollo_11.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioForm.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoForm.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III.View.LoginVisitante.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\Teste.View.ObraSuits.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.QuestionarioSuits.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\PIM_III_ADS.View.ResultadoFormSuit.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\refint\TotemPIMApresentacao.dll
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Apollo_11.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioForm.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoForm.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormDocumentos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormEquip.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormFotos.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormHistoria.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginVisitante.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormReplica.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraSuits.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioSuits.resources
+C:\Users\Nicolas\Documents\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormSuit.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.AssemblyReference.cache
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.Properties.Resources.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Apollo_11.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioForm.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoForm.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraDocumentos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioDocumentos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormDocumentos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraEquip.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioEquip.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormEquip.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraFotos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioFotos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormFotos.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraHistoria.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioHistoria.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormHistoria.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginVisitante.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraReplica.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioReplica.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormReplica.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraSuits.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioSuits.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormSuit.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.GenerateResource.cache
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfoInputs.cache
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.AssemblyInfo.cs
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.CoreCompileInputs.cache
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\refint\TotemPIMApresentacao.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.exe
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.deps.json
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.runtimeconfig.json
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\TotemPIMApresentacao.pdb
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Dapper.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Npgsql.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIM.1DE1BA13.Up2Date
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.genruntimeconfig.cache
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\ref\TotemPIMApresentacao.dll
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Menu.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Teclado.resources
+F:\PAULO HENRIQUE MENDES PAIVA\TRABALHOS\TotemPIMApresentacao\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.TecladoNumerico.resources

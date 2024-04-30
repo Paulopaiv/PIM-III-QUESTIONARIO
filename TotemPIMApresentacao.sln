@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotemPIMApresentacao", "TotemPIMApresentacao\TotemPIMApresentacao.csproj", "{2967406C-C13C-40A2-BFDC-D03BC774191F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2967406C-C13C-40A2-BFDC-D03BC774191F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2967406C-C13C-40A2-BFDC-D03BC774191F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2967406C-C13C-40A2-BFDC-D03BC774191F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2967406C-C13C-40A2-BFDC-D03BC774191F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2197D4C7-C5B6-4B3F-B548-19B7F705D960}
+	EndGlobalSection
+EndGlobal

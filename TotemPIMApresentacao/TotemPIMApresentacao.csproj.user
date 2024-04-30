@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Apollo11\Apollo-11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Apollo11\QuestionarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Apollo11\ResultadoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Documentos\ObraDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Documentos\QuestionarioDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Documentos\ResultadoFormDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Equipamentos\ObraEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Equipamentos\QuestionarioEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Equipamentos\ResultadoFormEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Fotos\ObraFotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Fotos\QuestionarioFotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Fotos\ResultadoFormFotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Historia\ObraHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Historia\QuestionarioHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Historia\ResultadoFormHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoginVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Replica\ObraReplica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Replica\QuestionarioReplica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Replica\ResultadoFormReplica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Suits\ObraSuits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Suits\QuestionarioSuits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Suits\ResultadoFormSuit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Utils\Teclado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Utils\TecladoNumerico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
