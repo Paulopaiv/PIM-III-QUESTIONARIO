@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "v0L4Cq6Kp2WR+Qf4khGV/WnMDpudAZrJWM3H5iD7x7WSgSUKxddSwBncbUg3igqQjQwMxgaVeXdq9S8mJoVIZQ==",
+  "dgSpecHash": "5VcBUSkGGseQvq/OScriFkGJT+sAoLf0kNVyX9md/ivDnVcXpIUIkZKXMFDEvY967wHUQFVXFfkQmbXHUGsswg==",
   "success": true,
-  "projectFilePath": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+  "projectFilePath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
-    "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+    "C:\\Users\\kenzo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }
