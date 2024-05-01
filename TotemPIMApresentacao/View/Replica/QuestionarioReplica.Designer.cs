@@ -93,6 +93,7 @@
             // btnAlternativaB
             // 
             btnAlternativaB.AutoSize = true;
+            btnAlternativaB.Cursor = Cursors.Hand;
             btnAlternativaB.Font = new Font("Arial", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnAlternativaB.Location = new Point(3, 70);
             btnAlternativaB.Name = "btnAlternativaB";
@@ -106,6 +107,7 @@
             // btnAlternativaC
             // 
             btnAlternativaC.AutoSize = true;
+            btnAlternativaC.Cursor = Cursors.Hand;
             btnAlternativaC.Font = new Font("Arial", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnAlternativaC.Location = new Point(3, 137);
             btnAlternativaC.Name = "btnAlternativaC";
@@ -118,6 +120,7 @@
             // btnAlternativaD
             // 
             btnAlternativaD.AutoSize = true;
+            btnAlternativaD.Cursor = Cursors.Hand;
             btnAlternativaD.Font = new Font("Arial", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnAlternativaD.Location = new Point(3, 204);
             btnAlternativaD.Name = "btnAlternativaD";
@@ -130,6 +133,7 @@
             // btnAlternativaE
             // 
             btnAlternativaE.AutoSize = true;
+            btnAlternativaE.Cursor = Cursors.Hand;
             btnAlternativaE.Font = new Font("Arial", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnAlternativaE.Location = new Point(3, 271);
             btnAlternativaE.Name = "btnAlternativaE";
@@ -142,6 +146,7 @@
             // btnAlternativaA
             // 
             btnAlternativaA.AutoSize = true;
+            btnAlternativaA.Cursor = Cursors.Hand;
             btnAlternativaA.Font = new Font("Arial", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnAlternativaA.Location = new Point(3, 3);
             btnAlternativaA.Name = "btnAlternativaA";

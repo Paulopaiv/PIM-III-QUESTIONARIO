@@ -160,6 +160,7 @@
             flowLayoutPanel1.Controls.Add(btnAlternativaC);
             flowLayoutPanel1.Controls.Add(btnAlternativaD);
             flowLayoutPanel1.Controls.Add(btnAlternativaE);
+            flowLayoutPanel1.Cursor = Cursors.Hand;
             flowLayoutPanel1.Location = new Point(646, 358);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
             flowLayoutPanel1.Size = new Size(613, 379);
