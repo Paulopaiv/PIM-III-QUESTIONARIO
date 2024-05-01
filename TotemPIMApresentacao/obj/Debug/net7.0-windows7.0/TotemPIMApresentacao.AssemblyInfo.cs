@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TotemPIMApresentacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7caea49dfdb1870909f51760144500d233a5c827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26be9ee8819436261095aec79a4246a08786c7da")]
 [assembly: System.Reflection.AssemblyProductAttribute("TotemPIMApresentacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TotemPIMApresentacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
