@@ -28,82 +28,62 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginVisitante));
-            lblLogin = new Label();
             txbCodigoVisitante = new TextBox();
             BtnEntrar = new Button();
-            pictureBox1 = new PictureBox();
             lblNome = new Label();
             panel1 = new Panel();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel1.SuspendLayout();
             SuspendLayout();
-            // 
-            // lblLogin
-            // 
-            lblLogin.Anchor = AnchorStyles.Right;
-            lblLogin.AutoSize = true;
-            lblLogin.BackColor = Color.Transparent;
-            lblLogin.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            lblLogin.ForeColor = SystemColors.ControlLightLight;
-            lblLogin.Location = new Point(1452, 346);
-            lblLogin.Name = "lblLogin";
-            lblLogin.Size = new Size(64, 28);
-            lblLogin.TabIndex = 0;
-            lblLogin.Text = "Login";
             // 
             // txbCodigoVisitante
             // 
             txbCodigoVisitante.Anchor = AnchorStyles.Right;
             txbCodigoVisitante.ForeColor = SystemColors.ActiveCaptionText;
-            txbCodigoVisitante.Location = new Point(1452, 417);
+            txbCodigoVisitante.Location = new Point(20, 41);
             txbCodigoVisitante.Name = "txbCodigoVisitante";
-            txbCodigoVisitante.Size = new Size(180, 23);
+            txbCodigoVisitante.Size = new Size(374, 23);
             txbCodigoVisitante.TabIndex = 2;
             txbCodigoVisitante.Click += TextBox1_Click;
             // 
             // BtnEntrar
             // 
             BtnEntrar.Anchor = AnchorStyles.Right;
-            BtnEntrar.BackColor = Color.Black;
+            BtnEntrar.BackColor = Color.White;
+            BtnEntrar.Cursor = Cursors.Hand;
+            BtnEntrar.FlatAppearance.BorderSize = 0;
             BtnEntrar.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            BtnEntrar.ForeColor = SystemColors.ButtonFace;
-            BtnEntrar.Location = new Point(1465, 508);
+            BtnEntrar.ForeColor = Color.Black;
+            BtnEntrar.Location = new Point(94, 89);
             BtnEntrar.Name = "BtnEntrar";
-            BtnEntrar.Size = new Size(160, 57);
+            BtnEntrar.Size = new Size(227, 57);
             BtnEntrar.TabIndex = 3;
             BtnEntrar.Text = "Entrar";
             BtnEntrar.UseVisualStyleBackColor = false;
             BtnEntrar.Click += BtnEntrar_Click;
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(0, 0);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(1272, 876);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 4;
-            pictureBox1.TabStop = false;
             // 
             // lblNome
             // 
             lblNome.Anchor = AnchorStyles.Right;
             lblNome.AutoSize = true;
             lblNome.BackColor = Color.Transparent;
-            lblNome.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            lblNome.ForeColor = SystemColors.ControlLightLight;
-            lblNome.Location = new Point(1452, 399);
+            lblNome.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
+            lblNome.ForeColor = Color.Gainsboro;
+            lblNome.Location = new Point(20, 13);
             lblNome.Name = "lblNome";
-            lblNome.Size = new Size(105, 15);
+            lblNome.Size = new Size(148, 25);
             lblNome.TabIndex = 14;
             lblNome.Text = "Token Visitante";
             // 
             // panel1
             // 
-            panel1.Location = new Point(1348, 284);
+            panel1.BackColor = Color.Transparent;
+            panel1.Controls.Add(BtnEntrar);
+            panel1.Controls.Add(txbCodigoVisitante);
+            panel1.Controls.Add(lblNome);
+            panel1.ForeColor = Color.Transparent;
+            panel1.Location = new Point(755, 439);
             panel1.Name = "panel1";
-            panel1.Size = new Size(394, 336);
+            panel1.Size = new Size(415, 168);
             panel1.TabIndex = 15;
             // 
             // LoginVisitante
@@ -111,29 +91,23 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
+            BackgroundImage = Properties.Resources.Login;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1825, 875);
-            Controls.Add(txbCodigoVisitante);
-            Controls.Add(BtnEntrar);
-            Controls.Add(lblLogin);
-            Controls.Add(lblNome);
-            Controls.Add(pictureBox1);
+            ClientSize = new Size(1920, 1100);
             Controls.Add(panel1);
+            Cursor = Cursors.Default;
             FormBorderStyle = FormBorderStyle.None;
             Name = "LoginVisitante";
             Text = "LoginVisitante";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
-
-        private Label lblLogin;
         private TextBox txbNomeCompleto;
         private TextBox txbCodigoVisitante;
         private Button BtnEntrar;
-        private PictureBox pictureBox1;
         private Label lblNome;
         private Panel panel1;
     }

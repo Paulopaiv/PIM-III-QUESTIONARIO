@@ -53,6 +53,7 @@
             // 
             BtnTesteConhecimento.Anchor = AnchorStyles.None;
             BtnTesteConhecimento.BackColor = SystemColors.Control;
+            BtnTesteConhecimento.Cursor = Cursors.Hand;
             BtnTesteConhecimento.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
             BtnTesteConhecimento.ForeColor = Color.FromArgb(64, 64, 64);
             BtnTesteConhecimento.Location = new Point(619, 883);

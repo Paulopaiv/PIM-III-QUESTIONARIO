@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\questionario\\pim-iii-questionario\\totempimapresentacao\\view\\loginvisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\loginvisitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginVisitante.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\LoginVisitante.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\LoginVisitante.cs",
+              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\LoginVisitante.cs [Projeto]",
+              "RelativeToolTip": "TotemPIMApresentacao\\View\\LoginVisitante.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:12:09.938Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
