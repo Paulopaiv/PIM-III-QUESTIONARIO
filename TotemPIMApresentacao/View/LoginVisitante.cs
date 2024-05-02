@@ -36,6 +36,11 @@ namespace TotemPIMApresentacao.View
 
             teclado.Show();
         }
+        private void Atalho_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control && e.KeyCode == Keys.V)
+                this.Close();
+        }
 
         private void BtnEntrar_Click(object sender, EventArgs e)
         {
@@ -58,6 +63,16 @@ namespace TotemPIMApresentacao.View
         private void LimparCampos()
         {
             txbCodigoVisitante.Text = string.Empty;
+        }
+
+        private void LoginVisitante_Load(object sender, EventArgs e)
+        {
+
+        }
+        private void Atalho_Load(object sender, EventArgs e)
+        {
+            this.KeyPreview = true;
+            this.KeyDown += Atalho_KeyDown;
         }
     }
 }

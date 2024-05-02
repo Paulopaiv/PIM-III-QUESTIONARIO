@@ -95,10 +95,10 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1920, 1100);
             Controls.Add(panel1);
-            Cursor = Cursors.Default;
             FormBorderStyle = FormBorderStyle.None;
             Name = "LoginVisitante";
             Text = "LoginVisitante";
+            Load += LoginVisitante_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

@@ -40,7 +40,7 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Segoe UI Light", 20.25F, FontStyle.Italic, GraphicsUnit.Point);
             label2.ForeColor = Color.DodgerBlue;
-            label2.Location = new Point(698, 199);
+            label2.Location = new Point(700, 152);
             label2.Name = "label2";
             label2.Size = new Size(312, 37);
             label2.TabIndex = 6;
@@ -52,7 +52,7 @@
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Segoe UI", 72F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = SystemColors.ButtonFace;
-            label3.Location = new Point(673, 209);
+            label3.Location = new Point(681, 162);
             label3.Name = "label3";
             label3.Size = new Size(558, 128);
             label3.TabIndex = 7;
@@ -64,7 +64,7 @@
             lblResultado.BackColor = Color.Transparent;
             lblResultado.Font = new Font("Segoe UI", 48F, FontStyle.Bold, GraphicsUnit.Point);
             lblResultado.ForeColor = SystemColors.Control;
-            lblResultado.Location = new Point(533, 337);
+            lblResultado.Location = new Point(541, 324);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(838, 86);
             lblResultado.TabIndex = 4;
@@ -74,8 +74,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = TotemPIMApresentacao.Properties.Resources.ResultadoQuestionario;
-            ClientSize = new Size(1904, 1061);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(1920, 1100);
             Controls.Add(label2);
             Controls.Add(label3);
             Controls.Add(lblResultado);

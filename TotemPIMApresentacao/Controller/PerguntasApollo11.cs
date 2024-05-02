@@ -59,7 +59,7 @@ namespace TotemPIMApresentacao.Controller
         {
             this.questionarioForm = questionarioForm;
             timer = new WinFormsTimer();
-            timer.Interval = 2000;
+            timer.Interval = 4000;
             timer.Tick += Timer_Tick;
             contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
