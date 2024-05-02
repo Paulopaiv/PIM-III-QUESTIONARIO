@@ -38,6 +38,7 @@
             // txbCodigoVisitante
             // 
             txbCodigoVisitante.Anchor = AnchorStyles.Right;
+            txbCodigoVisitante.BorderStyle = BorderStyle.FixedSingle;
             txbCodigoVisitante.ForeColor = SystemColors.ActiveCaptionText;
             txbCodigoVisitante.Location = new Point(20, 41);
             txbCodigoVisitante.Name = "txbCodigoVisitante";
