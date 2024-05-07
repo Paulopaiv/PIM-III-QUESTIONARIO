@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
+    "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
+    "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "projectUniqueName": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
         "projectName": "TotemPIMApresentacao",
-        "projectPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
-        "packagesPath": "C:\\Users\\kenzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\Questionario\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\obj\\",
+        "projectPath": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "packagesPath": "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\",
+        "outputPath": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paulo & Rebeca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +48,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Npgsql": {
               "target": "Package",

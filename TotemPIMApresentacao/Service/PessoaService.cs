@@ -1,7 +1,4 @@
-﻿using Npgsql;
-using System;
-using Dapper;
-
+﻿using Dapper;
 using TotemPIMApresentacao.Controller;
 
 namespace TotemPIMApresentacao.Servico
@@ -15,7 +12,7 @@ namespace TotemPIMApresentacao.Servico
             this.dbconexao = conexao;
         }
 
-        public PessoaControle BuscarPorCodigo(PessoaControle pessoa)
+        public PessoaController BuscarPorCodigo(PessoaController pessoa)
         {
             using (var conexao = new Dbconexao())
             {
@@ -34,5 +31,6 @@ namespace TotemPIMApresentacao.Servico
                 return pessoa;
             }
         }
+
     }
 }

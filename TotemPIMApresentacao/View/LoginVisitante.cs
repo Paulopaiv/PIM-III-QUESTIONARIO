@@ -7,19 +7,17 @@ namespace TotemPIMApresentacao.View
     public partial class LoginVisitante : Form
     {
         private PessoaModel pessoaModel;
-        private PessoaControle pessoa;
+        private PessoaController pessoa;
         private Teclado teclado;
         public string LoginStatus { get; private set; }
 
         public LoginVisitante()
         {
             InitializeComponent();
-
             this.WindowState = FormWindowState.Maximized;
-            pessoa = new PessoaControle();
+            pessoa = new PessoaController();
             pessoaModel = new PessoaModel();
             LoginStatus = "Erro";
-
         }
 
         private void TextBox1_Click(object sender, EventArgs e)
@@ -45,13 +43,13 @@ namespace TotemPIMApresentacao.View
         private void BtnEntrar_Click(object sender, EventArgs e)
         {
             pessoa.Codigo = txbCodigoVisitante.Text;
-
             pessoaModel.Login(pessoa);
 
-            if (pessoaModel.Mensagem.Equals($"Olá, {pessoa.Nome}! Por favor, responda o questionário a seguir."))
+            if (pessoaModel.Mensagem.Equals(""))
             {
-                MessageBox.Show(pessoaModel.Mensagem);
+              
                 LoginStatus = "Logado";
+
                 this.Close();
             }
             else
@@ -60,15 +58,12 @@ namespace TotemPIMApresentacao.View
             }
             LimparCampos();
         }
+
         private void LimparCampos()
         {
             txbCodigoVisitante.Text = string.Empty;
         }
 
-        private void LoginVisitante_Load(object sender, EventArgs e)
-        {
-
-        }
         private void Atalho_Load(object sender, EventArgs e)
         {
             this.KeyPreview = true;

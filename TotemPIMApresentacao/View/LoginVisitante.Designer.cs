@@ -99,7 +99,6 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "LoginVisitante";
             Text = "LoginVisitante";
-            Load += LoginVisitante_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

@@ -6,6 +6,7 @@ namespace TotemPIMApresentacao.Controller
 {
     public class PerguntasApollo11
     {
+        
         private Apollo_11 apollo;
         private ContadorRespostas contadorRespostas;
         private ResultadoForm resultadosForm;
@@ -22,9 +23,9 @@ namespace TotemPIMApresentacao.Controller
 
         private string[][] alternativas = {
 
-            new string[] { "A) Eagle", 
-                           "B) Falcon", 
-                           "C) Hawk", 
+            new string[] { "A) Eagle",
+                           "B) Falcon",
+                           "C) Hawk",
                            "D) Sparrow",
                            "E) Osprey" }, // Resposta correta: A
 
@@ -40,13 +41,13 @@ namespace TotemPIMApresentacao.Controller
                            "C) Pousar na Lua e retornar à órbita lunar",
                            "D) Explorar a superfície lunar em busca de recursos",
                            "E) Construir uma base lunar para futuras missões" },
-            new string[] { "A) Neil Armstrong", 
-                           "B) Buzz Aldrin", 
+            new string[] { "A) Neil Armstrong",
+                           "B) Buzz Aldrin",
                            "C) Michael Collins",
-                           "D) Alan Shepard", 
+                           "D) Alan Shepard",
                            "E) John Glenn" }, // Resposta correta: A
 
-            new string[] { "A) Não retornou à órbita, permanecendo na superfície lunar ", 
+            new string[] { "A) Não retornou à órbita, permanecendo na superfície lunar ",
                            "B) Utilizou foguetes auxiliares para retornar à órbita",
                            "C) Foi empurrado por astronautas para voltar à órbita",
                            "D) Aterrissou em uma área predestinada para ser recuperado posteriormente",

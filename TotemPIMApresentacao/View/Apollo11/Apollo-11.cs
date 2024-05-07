@@ -1,8 +1,11 @@
-﻿namespace TotemPIMApresentacao.View
+﻿using TotemPIMApresentacao.Controller;
+
+namespace TotemPIMApresentacao.View
 {
     public partial class Apollo_11 : Form
     {
         private LoginVisitante loginVisitante;
+
         public Apollo_11()
         {
             InitializeComponent();

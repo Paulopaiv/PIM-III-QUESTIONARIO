@@ -1,5 +1,6 @@
-﻿using TotemPIMApresentacao.View;
-using TotemPIMApresentacao.Model;
+﻿using System.Xml.Linq;
+using TotemPIMApresentacao.Controller;
+using TotemPIMApresentacao.Service;
 
 namespace TotemPIMApresentacao.Model
 {
@@ -7,6 +8,13 @@ namespace TotemPIMApresentacao.Model
     {
         private int[] posicoesRespostasCorretas;
         private int respostasCorretas;
+        private AvaliacaoService avaliacaoService = new AvaliacaoService();
+        private PessoaController pessoa;
+
+        public ContadorRespostas(PessoaController pessoa)
+        {
+            this.pessoa = pessoa;
+        }
 
         public ContadorRespostas(int[] posicoesRespostasCorretas)
         {
@@ -31,5 +39,19 @@ namespace TotemPIMApresentacao.Model
         {
             respostasCorretas++;
         }
+
+        internal void SalvarResposta()
+        {
+            if (pessoa != null)
+            {
+                string codigoUsuario = pessoa.Codigo;
+                avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario);
+            }
+            else
+            {
+             MessageBox.Show("O objeto pessoa é nulo.");
+            }
+        }
     }
+
 }

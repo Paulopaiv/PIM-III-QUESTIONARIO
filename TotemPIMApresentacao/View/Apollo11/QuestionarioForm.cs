@@ -1,19 +1,22 @@
 ﻿using TotemPIMApresentacao.Controller;
+using TotemPIMApresentacao.Model;
 
 namespace TotemPIMApresentacao.View
 {
     public partial class QuestionarioForm : Form
     {
         private PerguntasApollo11 perguntas;
+      
 
         public QuestionarioForm()
         {
             InitializeComponent();
-            perguntas = new PerguntasApollo11(this);
+
+            perguntas = new PerguntasApollo11(this); 
             this.WindowState = FormWindowState.Maximized;
             AtualizaPergunta();
-
         }
+
         private void AtualizaPergunta()
         {
             perguntas.AtualizarPergunta(lblPergunta, lblNumeroPergunta, new Button[]
