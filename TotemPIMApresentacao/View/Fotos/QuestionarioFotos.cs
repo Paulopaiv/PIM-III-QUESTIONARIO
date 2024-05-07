@@ -10,7 +10,7 @@ namespace TotemPIMApresentacao.View
         public QuestionarioFotos(ContadorRespostas contadorRespostas, string codigoUsuario)
         {
             InitializeComponent();
-            perguntas = new PerguntasFotos(this, contadorRespostas, codigoUsuario, "Equipamento");
+            perguntas = new PerguntasFotos(this, contadorRespostas, codigoUsuario, "Fotos");
             this.WindowState = FormWindowState.Maximized;
             AtualizaPergunta();
 

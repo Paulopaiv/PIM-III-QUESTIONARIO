@@ -35,7 +35,7 @@
     <Compile Update="View\Replica\LoginReplica.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="View\Suits\LoginReplica.cs">
+    <Compile Update="View\Suits\LoginSuits.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

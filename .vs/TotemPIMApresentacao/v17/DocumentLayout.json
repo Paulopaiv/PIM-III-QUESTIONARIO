@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\model\\contadorrespostas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\model\\contadorrespostas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\documentos\\questionariodocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\documentos\\questionariodocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\documentos\\questionariodocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\documentos\\questionariodocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\documentos\\resultadoformdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\documentos\\resultadoformdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\equipamentos\\resultadoformequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\equipamentos\\resultadoformequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\fotos\\resultadoformfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\fotos\\resultadoformfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\historia\\resultadoformhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\historia\\resultadoformhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\replica\\resultadoformreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\replica\\resultadoformreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\suits\\resultadoformsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\suits\\resultadoformsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\view\\apollo11\\resultadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\view\\apollo11\\resultadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,135 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContadorRespostas.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Model\\ContadorRespostas.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Model\\ContadorRespostas.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Model\\ContadorRespostas.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Model\\ContadorRespostas.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAcwDAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:31:56.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuestionarioDocumentos.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:31:47.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuestionarioDocumentos.cs [Projeto]",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs [Projeto]",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Documentos\\QuestionarioDocumentos.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:31:45.073Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResultadoFormSuit.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Suits\\ResultadoFormSuit.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Suits\\ResultadoFormSuit.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Suits\\ResultadoFormSuit.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Suits\\ResultadoFormSuit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:57.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResultadoFormReplica.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Replica\\ResultadoFormReplica.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Replica\\ResultadoFormReplica.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Replica\\ResultadoFormReplica.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Replica\\ResultadoFormReplica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:56.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResultadoFormHistoria.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Historia\\ResultadoFormHistoria.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Historia\\ResultadoFormHistoria.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Historia\\ResultadoFormHistoria.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Historia\\ResultadoFormHistoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:55.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResultadoFormFotos.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Fotos\\ResultadoFormFotos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Fotos\\ResultadoFormFotos.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Fotos\\ResultadoFormFotos.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Fotos\\ResultadoFormFotos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:54.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResultadoFormEquip.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Equipamentos\\ResultadoFormEquip.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Equipamentos\\ResultadoFormEquip.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Equipamentos\\ResultadoFormEquip.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Equipamentos\\ResultadoFormEquip.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:54.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultadoFormDocumentos.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\ResultadoFormDocumentos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Documentos\\ResultadoFormDocumentos.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Documentos\\ResultadoFormDocumentos.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Documentos\\ResultadoFormDocumentos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:53.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ResultadoForm.cs",
-              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Apollo11\\ResultadoForm.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\View\\Apollo11\\ResultadoForm.cs",
-              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\View\\Apollo11\\ResultadoForm.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\View\\Apollo11\\ResultadoForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:23:43.059Z",
-              "EditorCaption": ""
             }
           ]
         }

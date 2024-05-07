@@ -113,7 +113,7 @@ namespace TotemPIMApresentacao.Controller
         }
         private void Timer_Tick(object sender, EventArgs e)
         {
-            resultadosForm.Close();
+           // resultadosForm.Close();
             apollo = new Apollo_11();
             apollo.Show();
             timer.Stop();

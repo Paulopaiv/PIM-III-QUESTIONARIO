@@ -13,43 +13,43 @@ namespace TotemPIMApresentacao.View
         private void btnObra01_Click(object sender, EventArgs e)
         {
             Apollo_11 apollo11 = new Apollo_11();
-            apollo11.ShowDialog();
+            apollo11.Show();
         }
 
         private void btnObra02_Click(object sender, EventArgs e)
         {
             ObraDocumentos obraDocumentos = new ObraDocumentos();
-            obraDocumentos.ShowDialog();
+            obraDocumentos.Show();
         }
 
         private void btnObra03_Click(object sender, EventArgs e)
         {
             ObraEquip obraEquip = new ObraEquip();
-            obraEquip.ShowDialog();
+            obraEquip.Show();
         }
 
         private void btnObra04_Click(object sender, EventArgs e)
         {
             ObraFotos obraFotos = new ObraFotos();
-            obraFotos.ShowDialog();
+            obraFotos.Show();
         }
 
         private void btnObra05_Click(object sender, EventArgs e)
         {
             ObraHistoria obraHistoria = new ObraHistoria();
-            obraHistoria.ShowDialog();
+            obraHistoria.Show();
         }
 
         private void btnObra06_Click(object sender, EventArgs e)
         {
             ObraReplica obraReplica = new ObraReplica();
-            obraReplica.ShowDialog();
+            obraReplica.Show();
         }
 
         private void btnObra07_Click(object sender, EventArgs e)
         {
             ObraSuits obraSuits = new ObraSuits();
-            obraSuits.ShowDialog();
+            obraSuits.Show();
         }
     }
 }

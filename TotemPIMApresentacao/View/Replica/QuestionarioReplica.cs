@@ -10,7 +10,7 @@ namespace TotemPIMApresentacao.View
         public QuestionarioReplica(ContadorRespostas contadorRespostas, string codigoUsuario)
         {
             InitializeComponent();
-            perguntas = new PerguntasReplica(this, contadorRespostas, codigoUsuario, "Equipamento");
+            perguntas = new PerguntasReplica(this, contadorRespostas, codigoUsuario, "Replica");
             this.WindowState = FormWindowState.Maximized;
             AtualizaPergunta();
 
