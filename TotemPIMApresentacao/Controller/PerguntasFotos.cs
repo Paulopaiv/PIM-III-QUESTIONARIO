@@ -13,6 +13,7 @@ namespace TotemPIMApresentacao.Controller
         private ResultadoFormFotos resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioFotos questionarioForm;
+        private string codigoUsuario;
         private int indicePergunta = 0;
         private string[] perguntas = {
             "Quem foi o astronauta responsável por tirar a famosa foto do Homem na Lua?",
@@ -57,14 +58,26 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 1, 2, 0, 3, 3 };
 
-        public PerguntasFotos(QuestionarioFotos questionarioForm)
+        public PerguntasFotos(QuestionarioFotos questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+
+        //public PerguntasFotos(QuestionarioFotos questionarioForm)
+        //{
+        //    this.questionarioForm = questionarioForm;
+        //    timer = new WinFormsTimer();
+        //    timer.Interval = 4000;
+        //    timer.Tick += Timer_Tick;
+        //   // contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
+        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);

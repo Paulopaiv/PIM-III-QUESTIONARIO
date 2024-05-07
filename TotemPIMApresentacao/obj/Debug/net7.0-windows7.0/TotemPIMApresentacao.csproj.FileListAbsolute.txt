@@ -229,7 +229,6 @@ D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemP
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.AssemblyReference.cache
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.Properties.Resources.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Apollo_11.resources
-D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioForm.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoForm.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraDocumentos.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioDocumentos.resources
@@ -243,7 +242,6 @@ D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemP
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraHistoria.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioHistoria.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormHistoria.resources
-D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginVisitante.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Menu.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraReplica.resources
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioReplica.resources
@@ -268,3 +266,11 @@ D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemP
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Microsoft.AspNetCore.Http.Abstractions.dll
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Microsoft.AspNetCore.Http.Features.dll
 D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginApollo_11.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioApollo11.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginDocumentos.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginEquip.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginFotos.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginHistoria.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginReplica.resources
+D:\Paulo & Rebeca\GIT-HUB-PAULO\PIM-III-QUESTIONARIO\PIM-III-QUESTIONARIO\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginSuits.resources

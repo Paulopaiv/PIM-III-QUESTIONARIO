@@ -13,7 +13,7 @@ namespace TotemPIMApresentacao.Service
             conexao = dbconexao.GetConnection() as NpgsqlConnection;
         }
 
-        internal void RegistrarPontos(int acertos,string codigoUsuario)
+        internal void RegistrarPontos(int acertos,string codigoUsuario,string obraAtual)
         {
             
             using (NpgsqlCommand command = new NpgsqlCommand(@"INSERT INTO public.questionario (codigo, acertos, data)

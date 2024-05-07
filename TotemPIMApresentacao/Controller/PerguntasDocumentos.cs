@@ -6,12 +6,13 @@ namespace TotemPIMApresentacao.Controller
 {
     internal class PerguntasDocumentos
     {
-
-        private ObraDocumentos obraEquip;
+        private string obra = "Documentos";
+        private ObraDocumentos obraDocumentos;
         private ContadorRespostas contadorRespostas;
         private ResultadoFormDocumentos resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioDocumentos questionarioForm;
+        private string codigoUsuario;
         private int indicePergunta = 0;
         private string[] perguntas = {
             "Qual foi o principal documento que registrou a missão Apollo 11?", //1
@@ -56,14 +57,25 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 0, 0, 0, 1, 2 };
 
-        public PerguntasDocumentos(QuestionarioDocumentos questionarioForm)
+        public PerguntasDocumentos(QuestionarioDocumentos questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+        //public PerguntasDocumentos(QuestionarioDocumentos questionarioForm)
+        //{
+        //    this.questionarioForm = questionarioForm;
+        //    timer = new WinFormsTimer();
+        //    timer.Interval = 4000;
+        //    timer.Tick += Timer_Tick;
+        //    //contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
+        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);
@@ -107,8 +119,8 @@ namespace TotemPIMApresentacao.Controller
         private void Timer_Tick(object sender, EventArgs e)
         {
             resultadosForm.Close();
-            obraEquip = new ObraDocumentos();
-            obraEquip.Show();
+            obraDocumentos = new ObraDocumentos();
+            obraDocumentos.Show();
             timer.Stop();
         }
         public string[] AlternativasAtual()

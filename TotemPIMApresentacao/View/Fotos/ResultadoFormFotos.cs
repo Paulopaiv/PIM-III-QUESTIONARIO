@@ -15,6 +15,7 @@ namespace TotemPIMApresentacao.View
         }
         private void ExibirResultados()
         {
+            contadorRespostas.SalvarResposta();
             lblResultado.Text = $"Você acertou {contadorRespostas.RespostasCorretas} de 5 perguntas"; // Atualize o texto da lblResultado com o número atual de respostas corretas
         }
 

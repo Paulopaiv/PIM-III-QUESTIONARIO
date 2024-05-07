@@ -6,21 +6,23 @@ namespace TotemPIMApresentacao.Model
 {
     public class ContadorRespostas
     {
+        private AvaliacaoService avaliacaoService = new AvaliacaoService();
         private int[] posicoesRespostasCorretas;
         private int respostasCorretas;
-        private AvaliacaoService avaliacaoService = new AvaliacaoService();
-        private PessoaController pessoa;
-
-        public ContadorRespostas(PessoaController pessoa)
+        private string codigoUsuario;
+        private string obraAtual;
+        public ContadorRespostas(string codigoUsuario)
         {
-            this.pessoa = pessoa;
+            this.codigoUsuario = codigoUsuario;
         }
-
-        public ContadorRespostas(int[] posicoesRespostasCorretas)
+        public ContadorRespostas(int[] posicoesRespostasCorretas, string codigoUsuario, string obraAtual)
         {
             this.posicoesRespostasCorretas = posicoesRespostasCorretas;
+            this.codigoUsuario = codigoUsuario;
+            this.obraAtual = obraAtual; // Aqui atribuímos o valor de obraAtual à propriedade obraAtual
             respostasCorretas = 0;
         }
+
 
         public void VerificarResposta(int indicePergunta, int respostaUsuario)
         {
@@ -40,17 +42,12 @@ namespace TotemPIMApresentacao.Model
             respostasCorretas++;
         }
 
+        public string ObraAtual { get; set; }
+
         internal void SalvarResposta()
         {
-            if (pessoa != null)
-            {
-                string codigoUsuario = pessoa.Codigo;
-                avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario);
-            }
-            else
-            {
-             MessageBox.Show("O objeto pessoa é nulo.");
-            }
+            avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario, ObraAtual);
+
         }
     }
 

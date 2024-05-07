@@ -13,6 +13,8 @@ namespace TotemPIMApresentacao.Controller
         private ResultadoFormHistoria resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioHistoria questionarioForm;
+        private string codigoUsuario;
+
         private int indicePergunta = 0;
         private string[] perguntas = {
             "Qual foi o presidente dos Estados Unidos que anunciou o objetivo de pousarna Lua?", //1
@@ -57,14 +59,26 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 0, 2, 3, 0, 0 };
 
-        public PerguntasHistoria(QuestionarioHistoria questionarioForm)
+        public PerguntasHistoria(QuestionarioHistoria questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+
+        //public PerguntasHistoria(QuestionarioHistoria questionarioForm)
+        //{
+        //    this.questionarioForm = questionarioForm;
+        //    timer = new WinFormsTimer();
+        //    timer.Interval = 4000;
+        //    timer.Tick += Timer_Tick;
+        //    //contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
+        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);

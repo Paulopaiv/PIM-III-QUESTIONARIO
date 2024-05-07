@@ -13,6 +13,8 @@ namespace TotemPIMApresentacao.Controller
         private ResultadoFormSuit resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioSuits questionarioForm;
+        private string codigoUsuario;
+
         private int indicePergunta = 0;
         private string[] perguntas = {
             "Qual era o nome do traje espacial usado pelos astronautas da Apollo 11?",
@@ -57,14 +59,26 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 3, 2, 1, 3, 1 };
 
-        public PerguntasTrajesEspaciais(QuestionarioSuits questionarioForm)
+        public PerguntasTrajesEspaciais(QuestionarioSuits questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+
+        //public PerguntasTrajesEspaciais(QuestionarioSuits questionarioForm)
+        //{
+        //    this.questionarioForm = questionarioForm;
+        //    timer = new WinFormsTimer();
+        //    timer.Interval = 4000;
+        //    timer.Tick += Timer_Tick;
+        //   // contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
+        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);

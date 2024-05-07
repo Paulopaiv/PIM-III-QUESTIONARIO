@@ -20,6 +20,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Update="View\Documentos\LoginDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Equipamentos\LoginEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Fotos\LoginFotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Historia\LoginHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Replica\LoginReplica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Suits\LoginReplica.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>

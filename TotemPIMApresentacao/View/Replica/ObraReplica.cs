@@ -2,11 +2,9 @@
 {
     public partial class ObraReplica : Form
     {
-        private LoginVisitante loginVisitante;
         public ObraReplica()
         {
             InitializeComponent();
-            loginVisitante = new LoginVisitante();
             this.WindowState = FormWindowState.Maximized;
         }
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
@@ -17,12 +15,11 @@
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
         {
-            if (VerificarLogin())
-            {
-                QuestionarioReplica questionario = new QuestionarioReplica();
-                questionario.ShowDialog();
+
+            LoginReplica loginReplica = new LoginReplica();
+            loginReplica.ShowDialog();
                 this.Hide();
-            }
+
         }
         private void Atalho_Load_1(object sender, EventArgs e)
         {
@@ -30,10 +27,6 @@
             this.KeyDown += Atalho_KeyDown;
         }
 
-        private bool VerificarLogin()
-        {
-            loginVisitante.ShowDialog();
-            return loginVisitante.LoginStatus == "Logado";
-        }
+     
     }
 }

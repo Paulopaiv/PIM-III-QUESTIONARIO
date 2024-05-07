@@ -6,13 +6,15 @@ namespace TotemPIMApresentacao.Controller
 {
     public class PerguntasApollo11
     {
-        
+        private string obra = "Apollo-11";
         private Apollo_11 apollo;
         private ContadorRespostas contadorRespostas;
         private ResultadoForm resultadosForm;
         private WinFormsTimer timer;
-        private QuestionarioForm questionarioForm;
+        private QuestionarioApollo11 questionarioForm;
+        private string codigoUsuario;
         private int indicePergunta = 0;
+
         private string[] perguntas = {
             "Qual era o nome do módulo lunar usado na missão Apollo 11?",
             "Quantos astronautas a nave Apollo 11 levou para a Lua?",
@@ -37,10 +39,10 @@ namespace TotemPIMApresentacao.Controller
 
             new string[] { "A) Orbitar a Lua e transmitir dados para a Terra ",
                            "B)Transportar astronautas até a Lua e mantê-los seguros ", // Resposta correta: B
-
                            "C) Pousar na Lua e retornar à órbita lunar",
                            "D) Explorar a superfície lunar em busca de recursos",
                            "E) Construir uma base lunar para futuras missões" },
+
             new string[] { "A) Neil Armstrong",
                            "B) Buzz Aldrin",
                            "C) Michael Collins",
@@ -56,14 +58,19 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 0, 2, 1, 0, 4 };
 
-        public PerguntasApollo11(QuestionarioForm questionarioForm)
+        public PerguntasApollo11(QuestionarioApollo11 questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+
+
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);
@@ -140,8 +147,7 @@ namespace TotemPIMApresentacao.Controller
                 }
             }
         }
-
-
+      
 
     }
 }
