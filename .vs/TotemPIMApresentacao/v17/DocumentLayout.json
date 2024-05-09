@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|d:\\paulo \u0026 rebeca\\git-hub-paulo\\pim-iii-questionario\\pim-iii-questionario\\totempimapresentacao\\model\\mediaacertos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\model\\mediaacertos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\totempimapresentacao\\service\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\service\\avaliacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +39,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvaliacaoService.cs",
+              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Service\\AvaliacaoService.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Service\\AvaliacaoService.cs",
+              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Service\\AvaliacaoService.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Service\\AvaliacaoService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:47:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaAcertos.cs",
+              "DocumentMoniker": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Model\\MediaAcertos.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Model\\MediaAcertos.cs",
+              "ToolTip": "D:\\Paulo \u0026 Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\Model\\MediaAcertos.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Model\\MediaAcertos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:47:11.814Z",
+              "EditorCaption": ""
             }
           ]
         }
