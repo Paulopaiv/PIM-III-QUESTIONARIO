@@ -8,31 +8,39 @@ namespace TotemPIMApresentacao.Model
         PessoaServico pessoaServico = new PessoaServico(new Dbconexao());
 
         private string mensagem = "";
-
+      
         public PessoaModel()
         {
 
         }
-
-        public void Login(PessoaControle pessoa)
+        public void Login(PessoaController pessoa)
         {
             var pessoaEncontrada = pessoaServico.BuscarPorCodigo(pessoa);
 
-            if (pessoaEncontrada != null)
-            {
-                this.mensagem = $"Olá, {pessoaEncontrada.Nome}! Por favor, responda o questionário a seguir.";
-            }
-            else
+            if (pessoaEncontrada == null)
             {
                 this.mensagem = "O token fornecido é inválido. Por favor, verifique e tente novamente.";
             }
         }
-
         public string Mensagem
         {
             get { return mensagem; }
         }
 
+        public PessoaServico PessoaServico
+        {
+            get => default;
+            set
+            {
+            }
+        }
 
+        public PessoaController PessoaController
+        {
+            get => default;
+            set
+            {
+            }
+        }
     }
 }

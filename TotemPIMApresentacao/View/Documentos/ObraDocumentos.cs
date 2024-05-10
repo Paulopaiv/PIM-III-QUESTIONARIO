@@ -2,13 +2,20 @@
 {
     public partial class ObraDocumentos : Form
     {
-        private LoginVisitante loginVisitante;
         public ObraDocumentos()
         {
             InitializeComponent();
-            loginVisitante = new LoginVisitante();
             this.WindowState = FormWindowState.Maximized;
         }
+
+        public LoginDocumentos LoginDocumentos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)
@@ -17,24 +24,15 @@
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
         {
-            if (VerificarLogin())
-            {
-                QuestionarioDocumentos questionario = new QuestionarioDocumentos();
-                questionario.ShowDialog();
-                this.Hide();
-            }
+            LoginDocumentos loginDocumentos = new LoginDocumentos();
+            loginDocumentos.ShowDialog();
+            this.Hide();
         }
 
         private void Atalho_Load_1(object sender, EventArgs e)
         {
             this.KeyPreview = true;
             this.KeyDown += Atalho_KeyDown;
-        }
-
-        private bool VerificarLogin()
-        {
-            loginVisitante.ShowDialog();
-            return loginVisitante.LoginStatus == "Logado";
         }
     }
 }

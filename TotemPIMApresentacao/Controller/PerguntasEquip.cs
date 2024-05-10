@@ -13,6 +13,7 @@ namespace TotemPIMApresentacao.Controller
         private ResultadoFormEquip resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioEquip questionarioForm;
+        private string codigoUsuario;
         private int indicePergunta = 0;
         private string[] perguntas = {
             "Qual era o nome do computador utilizado na nave Apollo 11 durante a missão à Lua? ", //1
@@ -57,14 +58,34 @@ namespace TotemPIMApresentacao.Controller
 
         private int[] posicoesRespostasCorretas = { 2, 2, 1, 2, 2 };
 
-        public PerguntasEquip(QuestionarioEquip questionarioForm)
+        public PerguntasEquip(QuestionarioEquip questionarioForm, ContadorRespostas contadorRespostas, string codigoUsuario, string obra)
         {
             this.questionarioForm = questionarioForm;
+            this.contadorRespostas = contadorRespostas;
+            this.codigoUsuario = codigoUsuario;
+            contadorRespostas.ObraAtual = obra;
+
             timer = new WinFormsTimer();
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
-            contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
         }
+
+        public ResultadoFormEquip ResultadoFormEquip
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        //public PerguntasEquip(QuestionarioEquip questionarioForm)
+        //{
+        //    this.questionarioForm = questionarioForm;
+        //    timer = new WinFormsTimer();
+        //    timer.Interval = 4000;
+        //    timer.Tick += Timer_Tick;
+        //   // contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
+        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);

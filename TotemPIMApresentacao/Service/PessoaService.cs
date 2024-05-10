@@ -1,7 +1,4 @@
-﻿using Npgsql;
-using System;
-using Dapper;
-
+﻿using Dapper;
 using TotemPIMApresentacao.Controller;
 
 namespace TotemPIMApresentacao.Servico
@@ -15,14 +12,22 @@ namespace TotemPIMApresentacao.Servico
             this.dbconexao = conexao;
         }
 
-        public PessoaControle BuscarPorCodigo(PessoaControle pessoa)
+        public Model.PessoaModel PessoaModel
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public PessoaController BuscarPorCodigo(PessoaController pessoa)
         {
             using (var conexao = new Dbconexao())
             {
                 var connection = conexao.GetConnection();
 
                 var resultado = connection.QueryFirstOrDefault(
-                   "SELECT * FROM visitante WHERE Codigo = @codigo ",
+                   "SELECT * FROM tbl_visitante WHERE Codigo = @codigo ",
                     new { Codigo = pessoa.Codigo });
 
                 if (resultado == null)
@@ -34,5 +39,6 @@ namespace TotemPIMApresentacao.Servico
                 return pessoa;
             }
         }
+
     }
 }

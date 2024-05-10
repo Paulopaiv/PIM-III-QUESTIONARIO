@@ -1,18 +1,28 @@
-﻿using TotemPIMApresentacao.View;
-using TotemPIMApresentacao.Model;
+﻿using System.Xml.Linq;
+using TotemPIMApresentacao.Controller;
+using TotemPIMApresentacao.Service;
 
 namespace TotemPIMApresentacao.Model
 {
     public class ContadorRespostas
     {
+        private QuestionarioService avaliacaoService = new QuestionarioService();
         private int[] posicoesRespostasCorretas;
         private int respostasCorretas;
-
-        public ContadorRespostas(int[] posicoesRespostasCorretas)
+        private string codigoUsuario;
+        private string obraAtual;
+        public ContadorRespostas(string codigoUsuario)
+        {
+            this.codigoUsuario = codigoUsuario;
+        }
+        public ContadorRespostas(int[] posicoesRespostasCorretas, string codigoUsuario, string obraAtual)
         {
             this.posicoesRespostasCorretas = posicoesRespostasCorretas;
+            this.codigoUsuario = codigoUsuario;
+            this.obraAtual = obraAtual; // Aqui atribuímos o valor de obraAtual à propriedade obraAtual
             respostasCorretas = 0;
         }
+
 
         public void VerificarResposta(int indicePergunta, int respostaUsuario)
         {
@@ -31,5 +41,22 @@ namespace TotemPIMApresentacao.Model
         {
             respostasCorretas++;
         }
+
+        public string ObraAtual { get; set; }
+
+        internal void SalvarResposta()
+        {
+            avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario, ObraAtual);
+
+        }
+
+        internal QuestionarioService QuestionarioService
+        {
+            get => default;
+            set
+            {
+            }
+        }
     }
+
 }

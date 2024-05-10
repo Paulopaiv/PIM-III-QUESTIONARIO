@@ -2,13 +2,20 @@
 {
     public partial class ObraSuits : Form
     {
-        private LoginVisitante loginVisitante;
         public ObraSuits()
         {
             InitializeComponent();
-            loginVisitante = new LoginVisitante();
             this.WindowState = FormWindowState.Maximized;
         }
+
+        public LoginReplica LoginReplica
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)
@@ -17,12 +24,11 @@
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
         {
-            if (VerificarLogin())
-            {
-                QuestionarioSuits questionario = new QuestionarioSuits();
-                questionario.ShowDialog();
+          
+                LoginSuits loginSuits = new LoginSuits();
+                loginSuits.ShowDialog();
                 this.Hide();
-            }
+
         }
 
         private void Atalho_Load(object sender, EventArgs e)
@@ -31,10 +37,6 @@
             this.KeyDown += Atalho_KeyDown;
         }
 
-        private bool VerificarLogin()
-        {
-            loginVisitante.ShowDialog();
-            return loginVisitante.LoginStatus == "Logado";
-        }
+       
     }
 }

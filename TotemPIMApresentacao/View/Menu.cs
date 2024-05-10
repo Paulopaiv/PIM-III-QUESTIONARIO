@@ -1,4 +1,5 @@
 ﻿
+
 namespace TotemPIMApresentacao.View
 {
     public partial class Menu : Form
@@ -9,10 +10,66 @@ namespace TotemPIMApresentacao.View
             this.WindowState = FormWindowState.Maximized;
         }
 
+        public ObraFotos ObraFotos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public ObraReplica ObraReplica
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public ObraSuits ObraSuits
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public ObraEquip ObraEquip
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public ObraHistoria ObraHistoria
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public ObraDocumentos ObraDocumentos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public Apollo_11 Apollo_11
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void btnObra01_Click(object sender, EventArgs e)
         {
             Apollo_11 apollo11 = new Apollo_11();
-            apollo11.Show();   
+            apollo11.Show();
         }
 
         private void btnObra02_Click(object sender, EventArgs e)
@@ -48,7 +105,7 @@ namespace TotemPIMApresentacao.View
         private void btnObra07_Click(object sender, EventArgs e)
         {
             ObraSuits obraSuits = new ObraSuits();
-            obraSuits.ShowDialog();
+            obraSuits.Show();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
+    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
+    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
         "projectName": "TotemPIMApresentacao",
-        "projectPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "projectPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\obj\\",
+        "outputPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             },
             "Npgsql": {
               "target": "Package",

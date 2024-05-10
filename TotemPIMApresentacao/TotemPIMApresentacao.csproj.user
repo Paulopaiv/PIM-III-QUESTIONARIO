@@ -4,7 +4,10 @@
     <Compile Update="View\Apollo11\Apollo-11.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="View\Apollo11\QuestionarioForm.cs">
+    <Compile Update="View\Apollo11\LoginApollo-11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Apollo11\QuestionarioApollo11.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\Apollo11\ResultadoForm.cs">
@@ -44,9 +47,6 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\Historia\ResultadoFormHistoria.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="View\LoginVisitante.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\Menu.cs">

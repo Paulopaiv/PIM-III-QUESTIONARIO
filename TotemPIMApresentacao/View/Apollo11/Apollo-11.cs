@@ -1,13 +1,21 @@
-﻿namespace TotemPIMApresentacao.View
+﻿using TotemPIMApresentacao.Controller;
+
+namespace TotemPIMApresentacao.View
 {
     public partial class Apollo_11 : Form
     {
-        private LoginVisitante loginVisitante;
         public Apollo_11()
         {
             InitializeComponent();
-            loginVisitante = new LoginVisitante();
             this.WindowState = FormWindowState.Maximized;
+        }
+
+        public LoginApollo_11 LoginApollo_11
+        {
+            get => default;
+            set
+            {
+            }
         }
 
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
@@ -18,24 +26,15 @@
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
         {
-            if (VerificarLogin())
-            {
-                QuestionarioForm questionario = new QuestionarioForm();
-                questionario.ShowDialog();
-                this.Hide();
-            }
+            LoginApollo_11 loginApollo_11 = new LoginApollo_11();
+            loginApollo_11.ShowDialog();
+            this.Hide();
         }
 
         private void Atalho_Load(object sender, EventArgs e)
         {
             this.KeyPreview = true;
             this.KeyDown += Atalho_KeyDown;
-        }
-
-        private bool VerificarLogin()
-        {
-            loginVisitante.ShowDialog();
-            return loginVisitante.LoginStatus == "Logado";
         }
     }
 }

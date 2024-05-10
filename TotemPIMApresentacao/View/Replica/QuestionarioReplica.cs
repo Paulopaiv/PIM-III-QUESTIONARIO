@@ -1,4 +1,5 @@
 ﻿using TotemPIMApresentacao.Controller;
+using TotemPIMApresentacao.Model;
 
 namespace TotemPIMApresentacao.View
 {
@@ -6,13 +7,21 @@ namespace TotemPIMApresentacao.View
     {
         private PerguntasReplica perguntas;
 
-        public QuestionarioReplica()
+        public QuestionarioReplica(ContadorRespostas contadorRespostas, string codigoUsuario)
         {
             InitializeComponent();
-            perguntas = new PerguntasReplica(this);
+            perguntas = new PerguntasReplica(this, contadorRespostas, codigoUsuario, "Replica");
             this.WindowState = FormWindowState.Maximized;
             AtualizaPergunta();
 
+        }
+
+        internal PerguntasTrajesEspaciais PerguntasTrajesEspaciais
+        {
+            get => default;
+            set
+            {
+            }
         }
 
         private void AtualizaPergunta()

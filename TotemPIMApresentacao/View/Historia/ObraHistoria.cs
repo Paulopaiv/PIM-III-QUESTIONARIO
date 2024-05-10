@@ -2,13 +2,20 @@
 {
     public partial class ObraHistoria : Form
     {
-        private LoginVisitante loginVisitante;
         public ObraHistoria()
         {
             InitializeComponent();
-            loginVisitante = new LoginVisitante();
             this.WindowState = FormWindowState.Maximized;
         }
+
+        public LoginSuits LoginSuits
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)
@@ -17,23 +24,14 @@
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
         {
-            if (VerificarLogin())
-            {
-                QuestionarioHistoria questionario = new QuestionarioHistoria();
-                questionario.ShowDialog();
-                this.Hide();
-            }
+            LoginHistoria loginHistoria = new LoginHistoria();
+            loginHistoria.ShowDialog();
+                this.Hide();   
         }
         private void Atalho_Load_1(object sender, EventArgs e)
         {
             this.KeyPreview = true;
             this.KeyDown += Atalho_KeyDown;
-        }
-
-        private bool VerificarLogin()
-        {
-            loginVisitante.ShowDialog();
-            return loginVisitante.LoginStatus == "Logado";
-        }
+        }   
     }
 }

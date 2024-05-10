@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TotemPIMApresentacao.View.Menu">
+    <Position X="9" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAGAAAAAQAACgAAIDAAAAAAEIAAAAAAAABAA=</HashCode>
+      <FileName>View\Menu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Apollo_11" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.View.Apollo_11">
+    <Position X="9" Y="15.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiBABBAAAACAAAACIAAAAAAABAAAAAAAgAA=</HashCode>
+      <FileName>View\Apollo11\Apollo-11.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LoginApollo_11" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.View.LoginApollo_11">
+    <Position X="9" Y="19.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACQiACAAAAIADQAEACIAAAAAAQAIQAAwCAAAA=</HashCode>
+      <FileName>View\Apollo11\LoginApollo-11.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PessoaController" />
+      <Property Name="QuestionarioApollo11" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Model.PessoaModel">
+    <Position X="3.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEIAAABAAAAAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Model\PessoaModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PessoaServico" />
+      <Property Name="PessoaController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Servico.PessoaServico">
+    <Position X="0.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Service\PessoaService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PessoaModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Controller.PessoaController">
+    <Position X="6.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAQAABAAAgRAAAAAGQAAAAACAAAAAAAEAAAA=</HashCode>
+      <FileName>Controller\PessoaController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LoginApollo_11" />
+      <Property Name="PessoaModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.View.QuestionarioApollo11">
+    <Position X="12.5" Y="19.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAABEACAAABAAAACAAAACAIAABQAAAAAAEAAAQAA=</HashCode>
+      <FileName>View\Apollo11\QuestionarioApollo11.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PerguntasApollo11" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Controller.PerguntasApollo11">
+    <Position X="12.5" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>KgQAADAAICAAIABAAAUgAAgAAQAABAAAAAAAAADAAAA=</HashCode>
+      <FileName>Controller\PerguntasApollo11.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ResultadoForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.View.ResultadoForm">
+    <Position X="15.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAAGAgAADAAAAAAADAAAQAAAAAAA=</HashCode>
+      <FileName>View\Apollo11\ResultadoForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ContadorRespostas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Service.QuestionarioService">
+    <Position X="20.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAQAAACAA=</HashCode>
+      <FileName>Service\QuestionarioService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MediaAcertos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Model.ContadorRespostas">
+    <Position X="18" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAIAACAAAAAgQAAAAAEQAAAEBAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\ContadorRespostas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="QuestionarioService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TotemPIMApresentacao.Model.MediaAcertos">
+    <Position X="18" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAIAAAAAAoAAAAAIAMAABBAAAAAEAQEAA=</HashCode>
+      <FileName>Model\MediaAcertos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ResultadoForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
