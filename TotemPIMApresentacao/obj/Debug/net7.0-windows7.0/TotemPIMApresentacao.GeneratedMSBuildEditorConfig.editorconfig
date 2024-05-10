@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TotemPIMApresentacao
-build_property.ProjectDir = C:\Users\kenzo\OneDrive\Documentos\PIM\Questionario\PIM-III-QUESTIONARIO\TotemPIMApresentacao\
+build_property.ProjectDir = C:\Users\Nicolas\OneDrive\Documentos\Projetos\PIM\PIM-Questionario\TotemPIMApresentacao\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
