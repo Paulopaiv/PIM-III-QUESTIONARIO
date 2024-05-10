@@ -15,6 +15,15 @@ namespace TotemPIMApresentacao.View
             AtualizaPergunta();
 
         }
+
+        internal PerguntasReplica PerguntasReplica
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void AtualizaPergunta()
         {
             perguntas.AtualizarPergunta(lblPergunta, lblNumeroPergunta, new Button[] 

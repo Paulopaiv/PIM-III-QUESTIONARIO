@@ -10,6 +10,14 @@ namespace TotemPIMApresentacao.View
             this.WindowState = FormWindowState.Maximized;
         }
 
+        public LoginApollo_11 LoginApollo_11
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)

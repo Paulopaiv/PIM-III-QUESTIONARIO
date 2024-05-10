@@ -16,6 +16,14 @@ namespace TotemPIMApresentacao.View
           
         }
 
+        public ContadorRespostas ContadorRespostas
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void ExibirResultados()
         {
             contadorRespostas.SalvarResposta();

@@ -8,15 +8,16 @@ namespace TotemPIMApresentacao.Model
 {
     internal class MediaAcertos
     {
-        private AvaliacaoService avaliacaoService;
+        private QuestionarioService avaliacaoService;
         private int quantidade;
         private int totalPessoas; // Total de pessoas é igual à quantidade de códigos distintos
 
         public MediaAcertos()
         {
-            avaliacaoService = new AvaliacaoService();
+            avaliacaoService = new QuestionarioService();
         }
 
+    
         public void MediaAcertosPorObra(ContadorRespostas contador)
         {
             // Obter a quantidade de acertos e o total de pessoas (quantidade de códigos distintos)

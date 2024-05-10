@@ -7,6 +7,15 @@
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
         }
+
+        public LoginSuits LoginSuits
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)

@@ -16,6 +16,14 @@ namespace TotemPIMApresentacao.View
 
         }
 
+        internal PerguntasTrajesEspaciais PerguntasTrajesEspaciais
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void AtualizaPergunta()
         {
             perguntas.AtualizarPergunta(lblPergunta, lblNumeroPergunta, new Button[]

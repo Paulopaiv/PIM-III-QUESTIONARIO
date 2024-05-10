@@ -26,5 +26,21 @@ namespace TotemPIMApresentacao.Model
         {
             get { return mensagem; }
         }
+
+        public PessoaServico PessoaServico
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public PessoaController PessoaController
+        {
+            get => default;
+            set
+            {
+            }
+        }
     }
 }

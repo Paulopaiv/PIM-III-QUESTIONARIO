@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
+    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {}
   },
   "projects": {
-    "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
+    "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
         "projectName": "TotemPIMApresentacao",
-        "projectPath": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
-        "packagesPath": "C:\\Users\\Paulo & Rebeca\\.nuget\\packages\\",
-        "outputPath": "D:\\Paulo & Rebeca\\GIT-HUB-PAULO\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Paulo & Rebeca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,11 +51,11 @@
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.1.1, )"
             },
             "Npgsql": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.3, )"
             }
           },
           "imports": [

@@ -6,7 +6,7 @@ namespace TotemPIMApresentacao.Model
 {
     public class ContadorRespostas
     {
-        private AvaliacaoService avaliacaoService = new AvaliacaoService();
+        private QuestionarioService avaliacaoService = new QuestionarioService();
         private int[] posicoesRespostasCorretas;
         private int respostasCorretas;
         private string codigoUsuario;
@@ -48,6 +48,14 @@ namespace TotemPIMApresentacao.Model
         {
             avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario, ObraAtual);
 
+        }
+
+        internal QuestionarioService QuestionarioService
+        {
+            get => default;
+            set
+            {
+            }
         }
     }
 

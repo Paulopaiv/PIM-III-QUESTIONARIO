@@ -70,6 +70,13 @@ namespace TotemPIMApresentacao.Controller
             timer.Tick += Timer_Tick;
         }
 
+        public ResultadoForm ResultadoForm
+        {
+            get => default;
+            set
+            {
+            }
+        }
 
         public void VerificarResposta(string respostaUsuario)
         {

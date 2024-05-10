@@ -11,6 +11,22 @@ namespace TotemPIMApresentacao.View
         private Teclado teclado;
         public string LoginStatus { get; private set; }
 
+        public PessoaController PessoaController
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public QuestionarioHistoria QuestionarioHistoria
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public LoginHistoria()
         {
             InitializeComponent();

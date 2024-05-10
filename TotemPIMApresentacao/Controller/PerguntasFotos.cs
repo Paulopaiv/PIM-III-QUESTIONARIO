@@ -70,6 +70,14 @@ namespace TotemPIMApresentacao.Controller
             timer.Tick += Timer_Tick;
         }
 
+        public ResultadoFormFotos ResultadoFormFotos
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         //public PerguntasFotos(QuestionarioFotos questionarioForm)
         //{
         //    this.questionarioForm = questionarioForm;

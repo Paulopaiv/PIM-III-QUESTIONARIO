@@ -69,6 +69,15 @@ namespace TotemPIMApresentacao.Controller
             timer.Interval = 4000;
             timer.Tick += Timer_Tick;
         }
+
+        public ResultadoFormEquip ResultadoFormEquip
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         //public PerguntasEquip(QuestionarioEquip questionarioForm)
         //{
         //    this.questionarioForm = questionarioForm;
