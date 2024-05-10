@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nGtjnEV1qXhFMfyHYhPmBJwdzWiB+uV/iqTmOubUcFcCznFiACw5dJdqpoxOkC38MWRiJm4djxoUKeb3EFXAA==",
+  "dgSpecHash": "QEEFH19pDYrudOw1A6ncjI8kAXfFx7WJg2AEhBp7Jy4PUyFsXxeudxl1BuSg1FB6tsk6R3aOmKN28iotEPGXhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\Programas pendrive\\PIM-III-QUESTIONARIO\\PIM-III-QUESTIONARIO\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+  "projectFilePath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
