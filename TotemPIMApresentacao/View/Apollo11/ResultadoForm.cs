@@ -6,31 +6,23 @@ namespace TotemPIMApresentacao.View
     public partial class ResultadoForm : Form
     {
         private ContadorRespostas contadorRespostas;
-       
+        private System.Windows.Forms.Label lblRespostaQuestao1;
         public ResultadoForm(ContadorRespostas contadorRespostas)
         {
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
             this.contadorRespostas = contadorRespostas;           
             ExibirResultados();
-          
         }
-
-        public ContadorRespostas ContadorRespostas
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         private void ExibirResultados()
         {
             contadorRespostas.SalvarResposta();
+            contadorRespostas.Quantidade();
             MediaAcertos mediaAcertos = new MediaAcertos();
             mediaAcertos.MediaAcertosPorObra(contadorRespostas);
-            lblResultado.Text = $"Você acertou {contadorRespostas.RespostasCorretas} de 5 perguntas"; // Atualize o texto da lblResultado com o número atual de respostas corretas
-        }
+            lblResultado.Text = contadorRespostas.Mensagem;
+            lblMedia.Text = mediaAcertos.Mensagem;   
+        }
 
         private void btnObra_Click(object sender, EventArgs e)
         {

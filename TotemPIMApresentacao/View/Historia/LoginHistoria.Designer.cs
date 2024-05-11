@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginVisitante));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginHistoria));
             txbCodigoVisitante = new TextBox();
             BtnEntrar = new Button();
             lblNome = new Label();
@@ -88,17 +88,16 @@
             panel1.Size = new Size(415, 168);
             panel1.TabIndex = 15;
             // 
-            // LoginVisitante
+            // LoginHistoria
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1920, 1100);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "LoginVisitante";
+            Name = "LoginHistoria";
             Text = "LoginVisitante";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

@@ -67,7 +67,7 @@ namespace TotemPIMApresentacao.Controller
             contadorRespostas.ObraAtual = obra;
 
             timer = new WinFormsTimer();
-            timer.Interval = 4000;
+            timer.Interval = 10000;
             timer.Tick += Timer_Tick;
         }
 

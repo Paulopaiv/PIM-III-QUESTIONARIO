@@ -65,26 +65,9 @@ namespace TotemPIMApresentacao.Controller
             contadorRespostas.ObraAtual = obra;
 
             timer = new WinFormsTimer();
-            timer.Interval = 4000;
+            timer.Interval = 10000;
             timer.Tick += Timer_Tick;
         }
-
-        public ResultadoFormDocumentos ResultadoFormDocumentos
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        //public PerguntasDocumentos(QuestionarioDocumentos questionarioForm)
-        //{
-        //    this.questionarioForm = questionarioForm;
-        //    timer = new WinFormsTimer();
-        //    timer.Interval = 4000;
-        //    timer.Tick += Timer_Tick;
-        //    //contadorRespostas = new ContadorRespostas(posicoesRespostasCorretas);
-        //}
         public void VerificarResposta(string respostaUsuario)
         {
             string respostaCorreta = ObterRespostaCorreta(indicePergunta);
@@ -97,7 +80,6 @@ namespace TotemPIMApresentacao.Controller
             }
 
         }
-
         private string ObterRespostaCorreta(int indice)
         {
             if (indice < posicoesRespostasCorretas.Length)

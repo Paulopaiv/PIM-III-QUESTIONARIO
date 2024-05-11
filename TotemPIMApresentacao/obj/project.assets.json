@@ -420,19 +420,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicolas\\.nuget\\packages\\": {}
+    "C:\\Users\\kenzo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+      "projectUniqueName": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
       "projectName": "TotemPIMApresentacao",
-      "projectPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
-      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Projetos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\obj\\",
+      "projectPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\TotemPIMApresentacao.csproj",
+      "packagesPath": "C:\\Users\\kenzo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

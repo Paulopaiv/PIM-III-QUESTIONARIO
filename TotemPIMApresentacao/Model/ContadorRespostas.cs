@@ -1,4 +1,5 @@
-﻿using System.Xml.Linq;
+﻿using System.Windows.Forms;
+using System.Xml.Linq;
 using TotemPIMApresentacao.Controller;
 using TotemPIMApresentacao.Service;
 
@@ -11,6 +12,7 @@ namespace TotemPIMApresentacao.Model
         private int respostasCorretas;
         private string codigoUsuario;
         private string obraAtual;
+        private string mensagem;
         public ContadorRespostas(string codigoUsuario)
         {
             this.codigoUsuario = codigoUsuario;
@@ -49,14 +51,16 @@ namespace TotemPIMApresentacao.Model
             avaliacaoService.RegistrarPontos(respostasCorretas, codigoUsuario, ObraAtual);
 
         }
-
-        internal QuestionarioService QuestionarioService
+        public void Quantidade()
         {
-            get => default;
-            set
-            {
-            }
+            int quant = respostasCorretas;
+
+            // Exibir as informações em uma caixa de mensagem
+
+            Mensagem = ($"{quant}");
         }
+
+        public string Mensagem { get => mensagem; set => mensagem = value; }
     }
 
 }

@@ -66,16 +66,8 @@ namespace TotemPIMApresentacao.Controller
             contadorRespostas.ObraAtual = obra;
 
             timer = new WinFormsTimer();
-            timer.Interval = 4000;
+            timer.Interval = 10000;
             timer.Tick += Timer_Tick;
-        }
-
-        public ResultadoForm ResultadoForm
-        {
-            get => default;
-            set
-            {
-            }
         }
 
         public void VerificarResposta(string respostaUsuario)
@@ -120,7 +112,7 @@ namespace TotemPIMApresentacao.Controller
         }
         private void Timer_Tick(object sender, EventArgs e)
         {
-           // resultadosForm.Close();
+            resultadosForm.Close();
             apollo = new Apollo_11();
             apollo.Show();
             timer.Stop();

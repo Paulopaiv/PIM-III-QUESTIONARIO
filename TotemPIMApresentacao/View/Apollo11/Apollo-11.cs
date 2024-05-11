@@ -4,6 +4,7 @@ namespace TotemPIMApresentacao.View
 {
     public partial class Apollo_11 : Form
     {
+        private Menu menu = new Menu();
         public Apollo_11()
         {
             InitializeComponent();
@@ -21,7 +22,10 @@ namespace TotemPIMApresentacao.View
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)
+            {
                 this.Close();
+                menu.Show();
+            }
         }
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
