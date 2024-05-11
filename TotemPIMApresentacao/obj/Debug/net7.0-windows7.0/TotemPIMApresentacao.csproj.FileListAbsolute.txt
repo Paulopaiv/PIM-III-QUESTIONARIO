@@ -361,7 +361,6 @@ C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.LoginSuits.resources
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ObraSuits.resources
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.QuestionarioSuits.resources
-C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormSuit.resources
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.Teclado.resources
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.TecladoNumerico.resources
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.csproj.GenerateResource.cache
@@ -388,3 +387,4 @@ C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\bin
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIM.1DE1BA13.Up2Date
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.genruntimeconfig.cache
 C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\ref\TotemPIMApresentacao.dll
+C:\Users\kenzo\OneDrive\Documentos\PIM\PIM-Questionario\TotemPIMApresentacao\obj\Debug\net7.0-windows7.0\TotemPIMApresentacao.View.ResultadoFormSuits.resources

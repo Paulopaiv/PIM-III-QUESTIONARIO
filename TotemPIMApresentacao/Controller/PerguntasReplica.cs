@@ -29,7 +29,7 @@ namespace TotemPIMApresentacao.Controller
                             "B) Orbitar a Lua e fotografar a superfície ",
                             "C) Estudar a radiação no espaço profundo ",
                             "D) Testar novas tecnologias de propulsão ",
-                            "E) Realizar experimentos científicos na órbita lunar" }, // Resposta correta: A 0 
+                            "E) Realizar experimentos científicos na órbita lunar" }, // Resposta correta: A 
           
             new string[] { "A) Dois",
                             "B) Três",

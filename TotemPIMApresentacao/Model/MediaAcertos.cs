@@ -22,27 +22,32 @@ namespace TotemPIMApresentacao.Model
         public void MediaAcertosPorObra(ContadorRespostas contador)
         {
             
-            (quantidade, totalPessoas) = avaliacaoService.ObterInformacoesPorObra(contador.ObraAtual);
+            (quantidade,totalPessoas) = avaliacaoService.ObterInformacoesPorObra(contador.ObraAtual);
 
             double mediaAcertos = CalcularMediaAcertos();
-        
+            double totalPerguntasPorQuestionario = 5;
+
             // Exibir as informações em uma caixa de mensagem
-          
-            Mensagem = ($" {mediaAcertos}");
+            double porcentagemAcertos = (mediaAcertos/totalPerguntasPorQuestionario) * 100.0;
+
+            // Exibir as informações em uma caixa de mensagem
+            Mensagem = ($"A média de acertos para a obra é: {mediaAcertos:F1} \n\n e a porcentagem é {porcentagemAcertos:F1} %");
+
         }
 
         private double CalcularMediaAcertos()
         {
             if (totalPessoas != 0)
             {
-                double mediaAcertos = (double)quantidade / totalPessoas;
+                double mediaAcertos = (double)quantidade/totalPessoas;
                 return mediaAcertos;
             }
             else
             {
-                return 0; 
+                return 0;
             }
         }
+
 
         public string Mensagem { get => mensagem; set => mensagem = value; }
     }

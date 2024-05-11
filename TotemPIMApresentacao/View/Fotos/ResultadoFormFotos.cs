@@ -1,4 +1,5 @@
-﻿using TotemPIMApresentacao.Model;
+﻿using TotemPIMApresentacao.Controller;
+using TotemPIMApresentacao.Model;
 
 namespace TotemPIMApresentacao.View
 {
@@ -9,31 +10,23 @@ namespace TotemPIMApresentacao.View
         {
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
-            this.contadorRespostas = contadorRespostas; // Atribua a instância fornecida ao campo contadorRespostas
+            this.contadorRespostas = contadorRespostas;           
             ExibirResultados();
-
         }
-
-        public ContadorRespostas ContadorRespostas
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         private void ExibirResultados()
         {
             contadorRespostas.SalvarResposta();
+            contadorRespostas.Quantidade();
             MediaAcertos mediaAcertos = new MediaAcertos();
             mediaAcertos.MediaAcertosPorObra(contadorRespostas);
-            lblResultado.Text = $"Você acertou {contadorRespostas.RespostasCorretas} de 5 perguntas"; // Atualize o texto da lblResultado com o número atual de respostas corretas
-        }
+            lblResultado.Text = contadorRespostas.Mensagem;
+            lblMedia.Text = mediaAcertos.Mensagem;   
+        }
 
         private void btnObra_Click(object sender, EventArgs e)
         {
-            ObraFotos ObraSuits = new ObraFotos();
-            ObraSuits.ShowDialog();
+            Apollo_11 Apollo_11 = new Apollo_11();
+            Apollo_11.ShowDialog();
             this.Hide();
         }
     }
