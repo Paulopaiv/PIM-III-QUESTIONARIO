@@ -1,5 +1,6 @@
 ﻿using TotemPIMApresentacao.Controller;
 using TotemPIMApresentacao.Model;
+using WinFormsTimer = System.Windows.Forms.Timer;
 
 
 namespace TotemPIMApresentacao.View
@@ -9,30 +10,21 @@ namespace TotemPIMApresentacao.View
         private PessoaModel pessoaModel;
         private PessoaController pessoa;
         private Teclado teclado;
-        public string LoginStatus { get; private set; }
+        private WinFormsTimer timer;
 
-        public PessoaController PessoaController
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public QuestionarioFotos QuestionarioFotos
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
+      
         public LoginFotos()
         {
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
             pessoa = new PessoaController();
             pessoaModel = new PessoaModel();
+
+            timer = new WinFormsTimer();
+            timer.Interval = 30000;
+            timer.Tick += Timer_Tick;
+
+            timer.Start();
         }
 
         private void TextBox1_Click(object sender, EventArgs e)
@@ -58,7 +50,7 @@ namespace TotemPIMApresentacao.View
         private void BtnEntrar_Click(object sender, EventArgs e)
         {
             pessoa.Codigo = txbCodigoVisitante.Text;
-            pessoaModel.Login(pessoa);
+            pessoaModel.Login(pessoa,"Fotos");
 
             if (pessoaModel.Mensagem.Equals(""))
             {
@@ -86,5 +78,12 @@ namespace TotemPIMApresentacao.View
             this.KeyPreview = true;
             this.KeyDown += Atalho_KeyDown;
         }
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            this.Close();
+            timer.Stop();
+        }
+
+        public string LoginStatus { get; private set; }
     }
 }

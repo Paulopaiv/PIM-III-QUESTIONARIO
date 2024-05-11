@@ -1,5 +1,6 @@
 ﻿using TotemPIMApresentacao.Controller;
 using TotemPIMApresentacao.Model;
+using WinFormsTimer = System.Windows.Forms.Timer;
 
 
 namespace TotemPIMApresentacao.View
@@ -9,30 +10,21 @@ namespace TotemPIMApresentacao.View
         private PessoaModel pessoaModel;
         private PessoaController pessoa;
         private Teclado teclado;
-        public string LoginStatus { get; private set; }
+        private WinFormsTimer timer;
 
-        public PessoaController PessoaController
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public QuestionarioApollo11 QuestionarioApollo11
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
+       
         public LoginApollo_11()
         {
             InitializeComponent();
             this.WindowState = FormWindowState.Maximized;
             pessoa = new PessoaController();
             pessoaModel = new PessoaModel();
+
+            timer = new WinFormsTimer();
+            timer.Interval = 30000;
+            timer.Tick += Timer_Tick;
+
+            timer.Start();
         }
 
         private void TextBox1_Click(object sender, EventArgs e)
@@ -49,16 +41,11 @@ namespace TotemPIMApresentacao.View
 
             teclado.Show();
         }
-        private void Atalho_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.Control && e.KeyCode == Keys.V)
-                this.Close();
-        }
 
         private void BtnEntrar_Click(object sender, EventArgs e)
         {
             pessoa.Codigo = txbCodigoVisitante.Text;
-            pessoaModel.Login(pessoa);
+            pessoaModel.Login(pessoa, "Apollo-11");
 
             if (pessoaModel.Mensagem.Equals(""))
             {              
@@ -80,11 +67,11 @@ namespace TotemPIMApresentacao.View
         {
             txbCodigoVisitante.Text = string.Empty;
         }
-
-        private void Atalho_Load(object sender, EventArgs e)
+        private void Timer_Tick(object sender, EventArgs e)
         {
-            this.KeyPreview = true;
-            this.KeyDown += Atalho_KeyDown;
+            this.Close();
+            timer.Stop();
         }
+
     }
 }

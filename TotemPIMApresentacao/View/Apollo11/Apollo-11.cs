@@ -11,14 +11,6 @@ namespace TotemPIMApresentacao.View
             this.WindowState = FormWindowState.Maximized;
         }
 
-        public LoginApollo_11 LoginApollo_11
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         private void Atalho_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Control && e.KeyCode == Keys.V)
@@ -26,6 +18,11 @@ namespace TotemPIMApresentacao.View
                 this.Close();
                 menu.Show();
             }
+        }
+        private void Atalho_Load(object sender, EventArgs e)
+        {
+            this.KeyPreview = true;
+            this.KeyDown += Atalho_KeyDown;
         }
 
         private void BtnTesteConhecimento_Click(object sender, EventArgs e)
@@ -35,10 +32,5 @@ namespace TotemPIMApresentacao.View
             this.Hide();
         }
 
-        private void Atalho_Load(object sender, EventArgs e)
-        {
-            this.KeyPreview = true;
-            this.KeyDown += Atalho_KeyDown;
-        }
     }
 }

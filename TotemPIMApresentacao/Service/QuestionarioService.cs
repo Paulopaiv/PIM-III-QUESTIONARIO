@@ -59,6 +59,27 @@ namespace TotemPIMApresentacao.Service
 
             return (quantidadeAcertos, totalPessoas);
         }
+        internal bool CodigoAssociadoObra(string codigo, string obra)
+        {
+            bool codigoAssociado = false;
+
+            using (NpgsqlCommand command = new NpgsqlCommand
+                (@"SELECT COUNT(*) FROM public.tbl_questionario WHERE codigo = @Codigo AND obra = @obra", conexao))
+            {
+                command.Parameters.AddWithValue("@Codigo", codigo);
+                command.Parameters.AddWithValue("@obra", obra);
+
+                long count = (long)command.ExecuteScalar();
+
+                // Se rowCount for maior que zero, significa que o código está associado à obra
+                if (count > 0)
+                {
+                    codigoAssociado = true;
+                }
+            }
+
+            return codigoAssociado;
+        }
     }
 }
 
