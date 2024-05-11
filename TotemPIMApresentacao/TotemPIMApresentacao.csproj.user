@@ -67,7 +67,7 @@
     <Compile Update="View\Suits\QuestionarioSuits.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="View\Suits\ResultadoFormSuit.cs">
+    <Compile Update="View\Suits\ResultadoFormSuits.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\Utils\Teclado.cs">

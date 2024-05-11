@@ -24,7 +24,7 @@ namespace TotemPIMApresentacao.Controller
 
         private string[][] alternativas = {
 
-            new string[] { "A) Relatório de missão  ",
+            new string[] {  "A) Relatório de missão",
                             "B) Registro de comunicações da NASA ",
                             "C) Memorando interno da NASA ",
                             "D) Diário dos astronautas  ",

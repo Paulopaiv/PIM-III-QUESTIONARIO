@@ -6,7 +6,6 @@ namespace TotemPIMApresentacao.View
     public partial class ResultadoForm : Form
     {
         private ContadorRespostas contadorRespostas;
-        private System.Windows.Forms.Label lblRespostaQuestao1;
         public ResultadoForm(ContadorRespostas contadorRespostas)
         {
             InitializeComponent();

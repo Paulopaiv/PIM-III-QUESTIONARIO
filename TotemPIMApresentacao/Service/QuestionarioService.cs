@@ -13,14 +13,6 @@ namespace TotemPIMApresentacao.Service
             conexao = dbconexao.GetConnection() as NpgsqlConnection;
         }
 
-        internal Model.MediaAcertos MediaAcertos
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         internal void RegistrarPontos(int acertos,string codigoUsuario,string obraAtual)
         {
             

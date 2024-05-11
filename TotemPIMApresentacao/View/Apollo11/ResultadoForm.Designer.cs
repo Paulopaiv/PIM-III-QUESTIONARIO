@@ -42,11 +42,11 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Font = new Font("Segoe UI Semibold", 27.75F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.ForeColor = Color.DodgerBlue;
-            label2.Location = new Point(511, 171);
+            label2.Font = new Font("Segoe UI Black", 36F, FontStyle.Bold, GraphicsUnit.Point);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(333, 113);
             label2.Name = "label2";
-            label2.Size = new Size(899, 50);
+            label2.Size = new Size(1255, 65);
             label2.TabIndex = 6;
             label2.Text = "Visão Geral dos Resultados Obtidos no Questionário\r\n";
             // 
@@ -54,11 +54,11 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Segoe UI", 72F, FontStyle.Bold, GraphicsUnit.Point);
-            label3.ForeColor = SystemColors.ButtonFace;
-            label3.Location = new Point(681, 221);
+            label3.Font = new Font("Segoe UI Black", 72F, FontStyle.Bold, GraphicsUnit.Point);
+            label3.ForeColor = Color.FromArgb(12, 105, 255);
+            label3.Location = new Point(204, 225);
             label3.Name = "label3";
-            label3.Size = new Size(558, 128);
+            label3.Size = new Size(594, 128);
             label3.TabIndex = 7;
             label3.Text = "Parabéns!!!";
             // 
@@ -67,8 +67,8 @@
             lblResultado.AutoSize = true;
             lblResultado.BackColor = Color.Transparent;
             lblResultado.Font = new Font("Segoe UI Black", 72F, FontStyle.Bold, GraphicsUnit.Point);
-            lblResultado.ForeColor = Color.DodgerBlue;
-            lblResultado.Location = new Point(904, 366);
+            lblResultado.ForeColor = Color.FromArgb(12, 105, 255);
+            lblResultado.Location = new Point(445, 351);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(112, 128);
             lblResultado.TabIndex = 4;
@@ -78,11 +78,11 @@
             // 
             lblMedia.AutoSize = true;
             lblMedia.BackColor = Color.Transparent;
-            lblMedia.Font = new Font("Segoe UI Black", 48F, FontStyle.Bold, GraphicsUnit.Point);
-            lblMedia.ForeColor = Color.DodgerBlue;
-            lblMedia.Location = new Point(842, 641);
+            lblMedia.Font = new Font("Segoe UI", 27.75F, FontStyle.Bold, GraphicsUnit.Point);
+            lblMedia.ForeColor = Color.FromArgb(12, 105, 255);
+            lblMedia.Location = new Point(106, 702);
             lblMedia.Name = "lblMedia";
-            lblMedia.Size = new Size(231, 86);
+            lblMedia.Size = new Size(130, 50);
             lblMedia.TabIndex = 8;
             lblMedia.Text = "media";
             // 
@@ -92,7 +92,7 @@
             lblTextMedia.BackColor = Color.Transparent;
             lblTextMedia.Font = new Font("Segoe UI", 48F, FontStyle.Regular, GraphicsUnit.Point);
             lblTextMedia.ForeColor = SystemColors.ButtonFace;
-            lblTextMedia.Location = new Point(488, 524);
+            lblTextMedia.Location = new Point(106, 590);
             lblTextMedia.Name = "lblTextMedia";
             lblTextMedia.Size = new Size(945, 86);
             lblTextMedia.TabIndex = 9;
@@ -102,23 +102,23 @@
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
-            label1.Font = new Font("Segoe UI Semibold", 48F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(1022, 387);
+            label1.Location = new Point(563, 383);
             label1.Name = "label1";
-            label1.Size = new Size(475, 86);
+            label1.Size = new Size(383, 65);
             label1.TabIndex = 10;
-            label1.Text = "de 5 perguntas";
+            label1.Text = "de 5 perguntas!";
             // 
             // lblRes
             // 
             lblRes.AutoSize = true;
             lblRes.BackColor = Color.Transparent;
-            lblRes.Font = new Font("Segoe UI Semibold", 48F, FontStyle.Bold, GraphicsUnit.Point);
+            lblRes.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point);
             lblRes.ForeColor = Color.White;
-            lblRes.Location = new Point(465, 387);
+            lblRes.Location = new Point(106, 383);
             lblRes.Name = "lblRes";
-            lblRes.Size = new Size(433, 86);
+            lblRes.Size = new Size(333, 65);
             lblRes.TabIndex = 11;
             lblRes.Text = "Você acertou ";
             // 

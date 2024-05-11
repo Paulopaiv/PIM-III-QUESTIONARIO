@@ -10,7 +10,7 @@ namespace TotemPIMApresentacao.Controller
 
         private ObraSuits obraSuit;
         private ContadorRespostas contadorRespostas;
-        private ResultadoFormSuit resultadosForm;
+        private ResultadoFormSuits resultadosForm;
         private WinFormsTimer timer;
         private QuestionarioSuits questionarioForm;
         private string codigoUsuario;
@@ -71,7 +71,7 @@ namespace TotemPIMApresentacao.Controller
             timer.Tick += Timer_Tick;
         }
 
-        public ResultadoFormSuit ResultadoFormSuit
+        public ResultadoFormSuits ResultadoFormSuit
         {
             get => default;
             set
@@ -121,7 +121,7 @@ namespace TotemPIMApresentacao.Controller
             else
             {
                 timer.Start();
-                resultadosForm = new ResultadoFormSuit(contadorRespostas);
+                resultadosForm = new ResultadoFormSuits(contadorRespostas);
                 resultadosForm.ShowDialog();
                 questionarioForm.Hide();
                 return "";
