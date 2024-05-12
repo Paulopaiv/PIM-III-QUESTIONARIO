@@ -8,7 +8,7 @@ namespace TotemPIMApresentacao.Controller
     internal class PerguntasHistoria
     {
 
-        private ObraHistoria obraEquip;
+        private ObraHistoria obraHistoria;
         private ContadorRespostas contadorRespostas;
         private ResultadoFormHistoria resultadosForm;
         private WinFormsTimer timer;
@@ -71,13 +71,7 @@ namespace TotemPIMApresentacao.Controller
             timer.Tick += Timer_Tick;
         }
 
-        public ResultadoFormHistoria ResultadoFormHistoria
-        {
-            get => default;
-            set
-            {
-            }
-        }
+       
 
         //public PerguntasHistoria(QuestionarioHistoria questionarioForm)
         //{
@@ -130,8 +124,8 @@ namespace TotemPIMApresentacao.Controller
         private void Timer_Tick(object sender, EventArgs e)
         {
             resultadosForm.Close();
-            obraEquip = new ObraHistoria();
-            obraEquip.Show();
+            obraHistoria = new ObraHistoria();
+            obraHistoria.Show();
             timer.Stop();
         }
         public string[] AlternativasAtual()

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntashistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntashistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\service\\questionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\service\\questionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\service\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\service\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +51,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerguntasHistoria.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasHistoria.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasHistoria.cs",
+              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasHistoria.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasHistoria.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwH8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:16:32.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerguntasReplica.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
+              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwH0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:16:22.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Service\\QuestionarioService.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Service\\QuestionarioService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Service\\QuestionarioService.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Service\\QuestionarioService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:13:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Service\\PessoaService.cs",
+              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Service\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Service\\PessoaService.cs",
+              "RelativeToolTip": "TotemPIMApresentacao\\Service\\PessoaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:13:16.198Z",
+              "EditorCaption": ""
             }
           ]
         }

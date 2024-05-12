@@ -8,7 +8,7 @@ namespace TotemPIMApresentacao.Controller
     internal class PerguntasReplica
     {
 
-        private ObraReplica obraEquip;
+        private ObraReplica obraReplica;
         private ContadorRespostas contadorRespostas;
         private ResultadoFormReplica resultadosForm;
         private WinFormsTimer timer;
@@ -71,14 +71,6 @@ namespace TotemPIMApresentacao.Controller
             timer.Tick += Timer_Tick;
         }
 
-        public ResultadoFormReplica ResultadoFormReplica
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         //public PerguntasReplica(QuestionarioReplica questionarioForm)
         //{
         //    this.questionarioForm = questionarioForm;
@@ -130,8 +122,8 @@ namespace TotemPIMApresentacao.Controller
         private void Timer_Tick(object sender, EventArgs e)
         {
             resultadosForm.Close();
-            obraEquip = new ObraReplica();
-            obraEquip.Show();
+            obraReplica = new ObraReplica();
+            obraReplica.Show();
             timer.Stop();
         }
         public string[] AlternativasAtual()
