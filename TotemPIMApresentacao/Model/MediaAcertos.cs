@@ -31,7 +31,7 @@ namespace TotemPIMApresentacao.Model
             double porcentagemAcertos = (mediaAcertos/totalPerguntasPorQuestionario) * 100.0;
 
             // Exibir as informações em uma caixa de mensagem
-            Mensagem = ($"A média de acertos para a obra é: {mediaAcertos:F1} \n\n e a porcentagem é {porcentagemAcertos:F1} %");
+            Mensagem = ($"A média de acertos para a obra é: {mediaAcertos:F1} \n\n Porcentagem de acertos: {porcentagemAcertos:F1} %");
 
         }
 
