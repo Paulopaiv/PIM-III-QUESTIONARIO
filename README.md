@@ -2,11 +2,14 @@
 
 Este projeto foi apresentado como desafio no terceiro semestre de Análise e Desenvolvimento de Sistemas onde foi proposto o conceito de um museu de temática múltipla centrado na primeira viagem do ser humano à Lua. O objetivo do museu é oferecer uma experiência educativa e interativa aos seus visitantes, permitindo que eles explorem as obras em exposição e obtenham informações históricas por meio de um totem interativo.
 
-Para realizar esse projeto, foi necessário a criação de 3 programas que iriam fazer a interação da experiência com o usuário com o museu. Segue abaixo o repositório dos outros 2 programas:
+Para realizar esse projeto, foi necessário a criação de 4 programas que iriam fazer a interação da experiência com o usuário com o museu. Segue abaixo o repositório dos outros 3 programas:
 
 -[Programa de avaliação](https://github.com/Paulopaiv/PIM-III-ADS-VISITANTE)
 
 -[Programa de administração](https://github.com/Paulopaiv/PIM-III-ADS-ADM)
+
+-[Programa de vendas](https://github.com/Paulopaiv/PIM-III-ADS-VENDAS)
+
 
 
 
