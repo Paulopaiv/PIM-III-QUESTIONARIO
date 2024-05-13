@@ -4,9 +4,9 @@ Este projeto foi apresentado como desafio no terceiro semestre de Análise e Des
 
 Para realizar esse projeto, foi necessário a criação de 3 programas que iriam fazer a interação da experiência com o usuário com o museu. Segue abaixo o repositório dos outros 2 programas:
 
--[Totem de avaliação](https://github.com/Paulopaiv/PIM-III-ADS-VISITANTE)
+-[Programa de avaliação](https://github.com/Paulopaiv/PIM-III-ADS-VISITANTE)
 
--[Totem de administração](https://github.com/Paulopaiv/PIM-III-ADS-ADM)
+-[Programa de administração](https://github.com/Paulopaiv/PIM-III-ADS-ADM)
 
 
 
