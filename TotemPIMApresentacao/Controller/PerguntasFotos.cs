@@ -8,7 +8,7 @@ namespace TotemPIMApresentacao.Controller
     internal class PerguntasFotos
     {
 
-        private ObraFotos obraSuit;
+        private ObraFotos obraFotos;
         private ContadorRespostas contadorRespostas;
         private ResultadoFormFotos resultadosForm;
         private WinFormsTimer timer;
@@ -129,8 +129,8 @@ namespace TotemPIMApresentacao.Controller
         private void Timer_Tick(object sender, EventArgs e)
         {
             resultadosForm.Close();
-            obraSuit = new ObraFotos();
-            obraSuit.Show();
+            obraFotos = new ObraFotos();
+            obraFotos.Show();
             timer.Stop();
         }
         public string[] AlternativasAtual()
