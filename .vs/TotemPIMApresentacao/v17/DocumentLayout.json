@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasapollo11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasapollo11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasfotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntasreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntasreplica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|c:\\users\\kenzo\\onedrive\\documentos\\pim\\pim-questionario\\totempimapresentacao\\controller\\perguntastrajesespaciais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2967406C-C13C-40A2-BFDC-D03BC774191F}|TotemPIMApresentacao\\TotemPIMApresentacao.csproj|solutionrelative:totempimapresentacao\\controller\\perguntastrajesespaciais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,84 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PerguntasApollo11.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasApollo11.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasApollo11.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasApollo11.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasApollo11.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:27:12.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PerguntasDocumentos.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasDocumentos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasDocumentos.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasDocumentos.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasDocumentos.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:27:06.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PerguntasEquip.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasEquip.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasEquip.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasEquip.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasEquip.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:27:04.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PerguntasFotos.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasFotos.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasFotos.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasFotos.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasFotos.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:26:47.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PerguntasReplica.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasReplica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:26:45.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PerguntasTrajesEspaciais.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasTrajesEspaciais.cs",
-              "RelativeDocumentMoniker": "TotemPIMApresentacao\\Controller\\PerguntasTrajesEspaciais.cs",
-              "ToolTip": "C:\\Users\\kenzo\\OneDrive\\Documentos\\PIM\\PIM-Questionario\\TotemPIMApresentacao\\Controller\\PerguntasTrajesEspaciais.cs",
-              "RelativeToolTip": "TotemPIMApresentacao\\Controller\\PerguntasTrajesEspaciais.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:26:39.224Z",
-              "EditorCaption": ""
             }
           ]
         }
