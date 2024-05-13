@@ -6,7 +6,7 @@ Para realizar esse projeto, foi necessário a criação de 3 programas que iriam
 
 -[Totem de avaliação](https://github.com/Paulopaiv/PIM-III-ADS-VISITANTE)
 
--[Totem de avaliação](https://github.com/Paulopaiv/PIM-III-ADS-VISITANTE)
+-[Totem de administração](https://github.com/Paulopaiv/PIM-III-ADS-ADM)
 
 
 
