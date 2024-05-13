@@ -1,4 +1,4 @@
-# Museu da Primeira Viagem à Lua 🏛
+# Museu da Primeira Viagem à Lua 🏛🌕
 
 Este projeto foi apresentado como desafio no terceiro semestre de Análise e Desenvolvimento de Sistemas onde foi proposto o conceito de um museu de temática múltipla centrado na primeira viagem do ser humano à Lua. O objetivo do museu é oferecer uma experiência educativa e interativa aos seus visitantes, permitindo que eles explorem as obras em exposição e obtenham informações históricas por meio de um totem interativo.
 
@@ -9,8 +9,6 @@ Para realizar esse projeto, foi necessário a criação de 4 programas que iriam
 -[Programa de Administração 📋 ](https://github.com/Paulopaiv/PIM-III-ADS-ADM) 
 
 -[Programa de Vendas 🛒 ](https://github.com/Paulopaiv/PIM-III-ADS-VENDAS) 
-
-
 
 
 ## Funcionalidades Principais ⚙️
