@@ -22,7 +22,7 @@ namespace TotemPIMApresentacao.View
             pessoaModel = new PessoaModel();
 
             timer = new WinFormsTimer();
-            timer.Interval = 30000;
+            timer.Interval = 60000;
             timer.Tick += Timer_Tick;
 
             timer.Start();

@@ -6,7 +6,7 @@ namespace TotemPIMApresentacao.Controller
 {
     public class PerguntasApollo11
     {
-        private string obra = "Apollo-11";
+        
         private Apollo_11 apollo;
         private ContadorRespostas contadorRespostas;
         private ResultadoForm resultadosForm;

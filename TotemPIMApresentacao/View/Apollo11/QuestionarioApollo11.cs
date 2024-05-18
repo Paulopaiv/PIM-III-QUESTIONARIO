@@ -15,13 +15,7 @@ namespace TotemPIMApresentacao.View
             AtualizaPergunta();
         }
 
-        public PerguntasApollo11 PerguntasApollo11
-        {
-            get => default;
-            set
-            {
-            }
-        }
+     
 
         private void AtualizaPergunta()
         {
